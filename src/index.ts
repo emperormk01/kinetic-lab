@@ -1,4 +1,4 @@
-import page from "./page.html"
+import page from "../index.html"
 
 const html = {
   "content-type": "text/html; charset=utf-8",
